@@ -3,13 +3,13 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+You can call me 007, Highly advance Bot working for Lucifer Inc :
 
-This is Version 2 of Auto Filter Bot
+This is Version 2.0
 
-Bot gives button link to files in connected channels on query !
+Bot gives You Movies webseries paid aoftwares hacks & lot more !
 
-No need to add filters for your files or movies from now on!
+Become Premium member of Lucifer inc to use this at full potential!
 
 For more click <i>help</i></b>"""
 
@@ -53,17 +53,17 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @Soul_reaper71</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : 007 BY @Soul_reaper71</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @Soul_reaper71
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+
 
 """
